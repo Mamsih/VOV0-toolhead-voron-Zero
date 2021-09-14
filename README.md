@@ -28,3 +28,15 @@ BMG kit
 2x dragon / mosquito 2.5mm screws
 
 7x heat brass insert (BOM insert)
+
+Video of assembly coming very SOON ..
+
+
+
+/// Appreciate my work ?
+
+buy me a coffe 
+
+https://www.paypal.com/donate/?hosted_button_id=9EL8CEDVY28DA
+
+thank you and happy printing 
