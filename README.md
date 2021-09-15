@@ -10,6 +10,12 @@ Based on HeVort extruder( By MiragC with Big thanks to Him on this awsome design
 ![V0VO_03](https://user-images.githubusercontent.com/70104136/133228027-d88f3fab-19bb-4d73-b6cc-128bb3d99186.jpg)
 
 
+How to print supported parts to VOV0 tool-head
+https://www.youtube.com/watch?v=CkwsMm29IuA
+
+
+
+
 BOM 
 
 
