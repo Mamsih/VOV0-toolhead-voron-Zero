@@ -14,6 +14,7 @@ Based on HeVort extruder( By MirageC with Big thanks to Him on this awsome desig
 How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
+Video assembly ! !
 [![Click to youTube](https://user-images.githubusercontent.com/70104136/133600673-5bb4b4c8-821e-4386-8e90-987780248c23.jpg)](https://youtu.be/-FUMWvaNkwY "Click to youTube")
 
 
