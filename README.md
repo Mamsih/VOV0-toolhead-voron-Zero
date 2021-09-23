@@ -1,8 +1,8 @@
-Voron Zeo (V0VO) toolhead 
+# Voron Zeo (V0VO) toolhead 
 
-Dragon / Mosquito 
+## Dragon / Mosquito 
 
-Based on HeVort extruder( By MirageC with Big thanks to Him on this awsome design )
+### Based on HeVort extruder( By MirageC with Big thanks to Him on this awsome design )
 
 
 
@@ -14,7 +14,7 @@ Based on HeVort extruder( By MirageC with Big thanks to Him on this awsome desig
 How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
-Video assembly ! !
+# Video assembly ! !
 [![Click to youTube](https://user-images.githubusercontent.com/70104136/133600673-5bb4b4c8-821e-4386-8e90-987780248c23.jpg)](https://youtu.be/-FUMWvaNkwY "Click to youTube")
 
 
@@ -25,24 +25,24 @@ Video assembly ! !
 
 
 
-BOM 
+# BOM 
 
 
-BMG kit
+- BMG kit
 
-2x M3X8mm
+- 2x M3X8mm
 
-2x M3X10mm Button head
+- 2x M3X10mm Button head
 
-2x M3X40mm (FanDuct) 
+- 2x M3X40mm (FanDuct) 
 
-2x M3X25mm 
+- 2x M3X25mm 
 
-1x M3X20mm
+- 1x M3X20mm
 
-2x dragon / mosquito 2.5mm screws
+- 2x dragon / mosquito 2.5mm screws
 
-7x heat brass insert (BOM insert)
+- 7x heat brass insert (BOM insert)
 
 
 /// LDO Nema 14 Motor 
@@ -59,11 +59,9 @@ https://fr.aliexpress.com/item/1005002487819739.html?spm=a2g0o.detail.1000060.1.
 https://fr.aliexpress.com/item/4000761483243.html?spm=a2g0o.productlist.0.0.63245975cWPcBp&algo_pvid=a316c78f-c616-4420-936c-0aa4d4711a48&algo_exp_id=a316c78f-c616-4420-936c-0aa4d4711a48-18&pdp_ext_f=%7B%22sku_id%22%3A%2210000007563857481%22%7D
 
 
-Video of assembly coming very SOON ..
 
 
-
-/// Appreciate my work ?
+## Appreciate my work ?
 
 buy me a coffe 
 
