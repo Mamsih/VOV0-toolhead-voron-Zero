@@ -14,19 +14,11 @@
     <img src="https://user-images.githubusercontent.com/70104136/134736077-4aac95fa-e748-4f24-a706-7e5b6fddda4b.jpg" height="400">
 </div>
 
-How to print supported parts to VOV0 tool-head
+## How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
 # Video assembly ! !
 [![Click to youTube](https://user-images.githubusercontent.com/70104136/133600673-5bb4b4c8-821e-4386-8e90-987780248c23.jpg)](https://youtu.be/-FUMWvaNkwY "Click to youTube")
-
-
-
-
-
-
-
-
 
 # BOM 
 
