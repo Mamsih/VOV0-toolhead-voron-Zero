@@ -1,15 +1,18 @@
-# Voron Zeo (V0VO) toolhead 
+# Voron Zero (V0VO) toolhead 
 
 ## Dragon / Mosquito 
 
 ### Based on HeVort extruder( By MirageC with Big thanks to Him on this awsome design )
 
-
-
 ![V0VO_01](https://user-images.githubusercontent.com/70104136/133227981-28751f21-1649-4d4e-b946-60fabdd55e79.jpg)
-![V0VO_02](https://user-images.githubusercontent.com/70104136/133228012-99412920-f3e0-4343-ad31-36cf274a56e4.jpg)
-![V0VO_03](https://user-images.githubusercontent.com/70104136/133228027-d88f3fab-19bb-4d73-b6cc-128bb3d99186.jpg)
-
+# Upadated Version Re.01 
+## AirFlow improvement for the fanDuct 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/70104136/134735850-6ff9bb1d-37ef-4e51-b6c2-6651dbd091e4.jpg" height="400">
+    <img src="https://user-images.githubusercontent.com/70104136/134735994-634443aa-085a-45e6-a97d-6c351a20873b.jpg" height="400">
+    <img src="https://user-images.githubusercontent.com/70104136/134736047-f14239f3-4458-445a-aeeb-f66b243c64ab.jpg" height="400">
+    <img src="https://user-images.githubusercontent.com/70104136/134736077-4aac95fa-e748-4f24-a706-7e5b6fddda4b.jpg" height="400">
+</div>
 
 How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
