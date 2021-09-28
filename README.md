@@ -1,4 +1,4 @@
-# Voron Zero (V0VO) toolhead 
+# Voron Zero (VOV0) toolhead 
 
 ## Dragon / Mosquito 
 
