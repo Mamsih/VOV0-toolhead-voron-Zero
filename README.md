@@ -14,6 +14,12 @@
     <img src="https://user-images.githubusercontent.com/70104136/134736077-4aac95fa-e748-4f24-a706-7e5b6fddda4b.jpg" height="400">
 </div>
 
+## update 27/09/2021
+
+- add adjustable slot on the backplate for controlling backlash
+- more tolerance for MR85ZZ bearing
+- less amount of support needed
+
 ## How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
