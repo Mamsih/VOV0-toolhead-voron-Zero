@@ -52,14 +52,14 @@ https://www.youtube.com/watch?v=CkwsMm29IuA
 - 7x heat brass insert (BOM insert)
 
 
-/// LDO Nema 14 Motor
+- LDO Nema 14 Motor
 https://fr.aliexpress.com/item/1005002900085330.html
-/// BMG Kit with and without motor
+- BMG Kit with and without motor
 https://fr.aliexpress.com/item/1005002487451377.html
-/// Plastic PTFE Bowden fitting
+- Plastic PTFE Bowden fitting
 https://fr.aliexpress.com/item/1005002487819739.html
 
-/// M3 Heat insert
+- M3 Heat insert
 https://fr.aliexpress.com/item/4000761483243.html
 
 
