@@ -4,7 +4,7 @@
 
 ### Based on HeVort extruder( By MirageC with Big thanks to Him on this awesome design )
 
-![V0VO_01](https://user-images.githubusercontent.com/70104136/133227981-28751f21-1649-4d4e-b946-60fabdd55e79.jpg)
+![V0VO_01](img/V0VO_01.jpg)
 # Updated Version Re.01 
 ## AirFlow improvement for the fanDuct 
 <div align="center">
@@ -64,7 +64,7 @@ https://fr.aliexpress.com/item/4000761483243.html
 
 ## Appreciate my work ?
 
-buy me a coffe 
+buy me a coffee 
 
 https://www.paypal.com/donate/?hosted_button_id=9EL8CEDVY28DA
 
