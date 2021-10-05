@@ -12,9 +12,15 @@
 ## pre-support files 
 ![pre-supported_02](img/pre-supported_02.png)
 ![pre-supported_03](img/pre-supported_03.png)
-=======
 
-=======
+# added mount for NF-Crazy Volcano  (Let's push it further ) 
+![Volcano01](img/Volcano01.jpg)
+![Volcano](img/Volcano.jpg)
+![Volcano_03](img/Volcano_03.jpg)
+![Volcano04](img/Volcano04.jpg)
+
+
+
 ## How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
