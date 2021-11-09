@@ -31,6 +31,8 @@ Print Setting
 - 5 solid top 5 Bottom layers 
 
 
+# the toolhead mounted with the V0.0 Belt Retention Block one !
+ 
 # Video assembly ! !
 [![Click to youTube](https://user-images.githubusercontent.com/70104136/133600673-5bb4b4c8-821e-4386-8e90-987780248c23.jpg)](https://youtu.be/-FUMWvaNkwY "Click to youTube")
 
